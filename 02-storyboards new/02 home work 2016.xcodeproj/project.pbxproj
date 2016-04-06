@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		84824CDF1CB2A79600259824 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84824CDE1CB2A79600259824 /* Settings.swift */; };
 		849B57071CAD7C620072CA38 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849B57061CAD7C620072CA38 /* AppDelegate.swift */; };
 		849B57091CAD7C620072CA38 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849B57081CAD7C620072CA38 /* MasterViewController.swift */; };
 		849B570B1CAD7C620072CA38 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849B570A1CAD7C620072CA38 /* DetailViewController.swift */; };
@@ -18,7 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		84824CDE1CB2A79600259824 /* Settings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Settings.swift; path = "../../Artyom ios-course-homework-master/02/02 storyboard (home work)/Settings.swift"; sourceTree = "<group>"; };
 		849B57031CAD7C620072CA38 /* 02 home work 2016.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "02 home work 2016.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		849B57061CAD7C620072CA38 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		849B57081CAD7C620072CA38 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -62,7 +60,6 @@
 			children = (
 				849B57061CAD7C620072CA38 /* AppDelegate.swift */,
 				849B57081CAD7C620072CA38 /* MasterViewController.swift */,
-				84824CDE1CB2A79600259824 /* Settings.swift */,
 				849B571A1CAD85020072CA38 /* DiaryEntry.swift */,
 				849B570A1CAD7C620072CA38 /* DetailViewController.swift */,
 				849B570C1CAD7C620072CA38 /* Main.storyboard */,
@@ -145,7 +142,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84824CDF1CB2A79600259824 /* Settings.swift in Sources */,
 				849B570B1CAD7C620072CA38 /* DetailViewController.swift in Sources */,
 				849B57091CAD7C620072CA38 /* MasterViewController.swift in Sources */,
 				849B57071CAD7C620072CA38 /* AppDelegate.swift in Sources */,

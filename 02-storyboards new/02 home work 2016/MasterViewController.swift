@@ -80,10 +80,9 @@ class MasterViewController: UITableViewController {
 
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCellWithIdentifier("Cell", forIndexPath: indexPath)
-
-        let object = objects[indexPath.row]
+        let object = self.objects[indexPath.row]
        cell.textLabel!.text = object.title.isEmpty ? "Empty" : object.title
-      //  cell.detailTextLabel!.text = returnDateString(object.date)
+       // cell.detailTextLabel!.text = returnDateString(object.date)
         
         return cell
     }
