@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02 home work 2016/DetailViewController.swift"
+            timestampString = "481758638.630429"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02 home work 2016/MasterViewController.swift"
+            timestampString = "482063861.74598"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "prepareForSegue(_:sender:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02 home work 2016/AddViewController.swift"
+            timestampString = "482064388.54762"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "buttonTapped(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02 home work 2016/AddViewController.swift"
+            timestampString = "481763202.464423"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "AddViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.AddViewController.textView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextView&gt;"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master%20Artyom%20new/02-storyboards%20new/02%20home%20work%202016/AddViewController.swift"
+                  timestampString = "481763497.003389"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.AddViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; _2_home_work_2016.AddViewController"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master%20Artyom%20new/02-storyboards%20new/02%20home%20work%202016/AddViewController.swift"
+                  timestampString = "481763497.003729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.AddViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;_2_home_work_2016.AddViewController&gt;"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master%20Artyom%20new/02-storyboards%20new/02%20home%20work%202016/AddViewController.swift"
+                  timestampString = "481763497.004019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02 home work 2016/AddViewController.swift"
+            timestampString = "481763205.812428"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "AddViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.AddViewController.segmentedControll.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISegmentedControl&gt;"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master%20Artyom%20new/02-storyboards%20new/02%20home%20work%202016/AddViewController.swift"
+                  timestampString = "481763497.00736"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.AddViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; _2_home_work_2016.AddViewController"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master%20Artyom%20new/02-storyboards%20new/02%20home%20work%202016/AddViewController.swift"
+                  timestampString = "481763497.007677"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "201">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.AddViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;_2_home_work_2016.AddViewController&gt;"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master%20Artyom%20new/02-storyboards%20new/02%20home%20work%202016/AddViewController.swift"
+                  timestampString = "481763497.007817"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "142">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02 home work 2016/AddViewController.swift"
+            timestampString = "481763472.045235"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "AddViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.AddViewController.backgroundImageView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master%20Artyom%20new/02-storyboards%20new/02%20home%20work%202016/AddViewController.swift"
+                  timestampString = "481763497.009228"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.AddViewController.backgroundImageView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master%20Artyom%20new/02-storyboards%20new/02%20home%20work%202016/AddViewController.swift"
+                  timestampString = "481763497.009374"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.AddViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;_2_home_work_2016.AddViewController&gt;"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master%20Artyom%20new/02-storyboards%20new/02%20home%20work%202016/AddViewController.swift"
+                  timestampString = "481763497.009654"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02 home work 2016/AppDelegate.swift"
+            timestampString = "482066670.060412"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.AppDelegate.window.setter : Swift.Optional&lt;__ObjC.UIWindow&gt;"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master%20Artyom%20new/02-storyboards%20new/02%20home%20work%202016/AppDelegate.swift"
+                  timestampString = "482066671.131695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.AppDelegate.init () -&gt; _2_home_work_2016.AppDelegate"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master%20Artyom%20new/02-storyboards%20new/02%20home%20work%202016/AppDelegate.swift"
+                  timestampString = "482066671.131995"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02 home work 2016/MasterTableViewController.swift"
+            timestampString = "482676112.614508"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "settingsButtonTapped(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02 home work 2016/MasterTableViewController.swift"
+            timestampString = "482676112.614508"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "settingsButtonTapped(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.MasterTableViewController.settingsButtonTapped (Swift.AnyObject) -&gt; ()"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master/03-NSCoding/02%20home%20work%202016/MasterTableViewController.swift"
+                  timestampString = "482663815.449373"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_2_home_work_2016.MasterTableViewController.settingsButtonTapped (Swift.AnyObject) -&gt; ()"
+                  moduleName = "02 home work 2016"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Desktop/ios-course-homework-master/03-NSCoding/02%20home%20work%202016/MasterTableViewController.swift"
+                  timestampString = "482663815.449551"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "1126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "02 home work 2016/MasterTableViewController.swift"
+            timestampString = "482674718.180769"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "tableView(_:cellForRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
